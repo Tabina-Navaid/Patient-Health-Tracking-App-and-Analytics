@@ -114,14 +114,3 @@ View the interactive dashboard on Power BI:
 
 ---
 
-## 🗂️ Repository Structure
-```
-├── images/
-│   ├── erd-schema.png
-│   ├── app-screen-1.png
-│   ├── app-screen-2.png
-│   ├── app-screen-3.png
-│   └── dashboard.png
-├── PowerBI_Clinical_Dashboard.pbix
-└── README.md
-```
