@@ -59,7 +59,7 @@ The app connects directly to the Cloud SQL database, meaning every entry made in
 
 ### App Screenshots
 
-| Home | Patient Profile | Vitals Entry |
+| Home | Onboarded Patients | New Patient Entry |
 |------|----------------|--------------|
 | <img width="390" height="832" alt="Screenshot 2026-03-09 023250" src="https://github.com/user-attachments/assets/5a73ec0e-6425-4c07-89dc-aa5d5f8e555b" />| <img width="392" height="864" alt="Screenshot 2026-03-09 023257" src="https://github.com/user-attachments/assets/a8c2fd5a-9ab7-436d-b6b1-e0669dfb4624" /> | <img width="418" height="865" alt="Screenshot 2026-03-09 023314" src="https://github.com/user-attachments/assets/19c7bfec-be40-4977-9fc2-87da49c6f4dc" />|
 
