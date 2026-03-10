@@ -37,7 +37,6 @@ The foundation of the system is a **MySQL relational database**, designed to sup
 
 <img width="1216" height="843" alt="Screenshot 2026-03-09 024044" src="https://github.com/user-attachments/assets/2760041f-05e5-4ea3-b4cb-dc98021d2863" />
 
-> 📁 Add your ERD screenshot to `/images` as `erd-schema.png`
 
 ### ☁️ Cloud Hosting
 
